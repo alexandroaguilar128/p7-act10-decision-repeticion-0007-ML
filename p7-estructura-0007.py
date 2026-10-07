@@ -77,4 +77,4 @@ while porcentaje < 100:
 
 print("¡Descarga completa!")
 
-print("Programa realizado por Alexandro Aguilar")
+print("Programa realizado por Alexandro Aguilar NC = 0007")
